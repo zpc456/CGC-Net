@@ -3,7 +3,6 @@ The codes of the proposed CGC-Net will be further refined after the acceptance o
 Updated on June 16, the paper "CGC-Net: A Guided Constrained Network for Remote-Sensing Image Super Resolution" has been accepted!
 
 May 20 pending Review
-
 May 23 under Review
 
 June 7 pending major revision
