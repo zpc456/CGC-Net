@@ -4,7 +4,7 @@ Updated on June 16, the paper "CGC-Net: A Guided Constrained Network for Remote-
 
 May 20 pending Review  
 May 23 under Review  
-June 7 pending major revision
-June 15 resubmitted and revised version review
-June 16 paper accepted and pending English
-June 17 Author proof reading
+June 7 pending major revision  
+June 15 resubmitted and revised version review  
+June 16 paper accepted and pending English  
+June 17 Author proof reading  
