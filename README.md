@@ -1,5 +1,5 @@
 # CGC-Net
-The codes of the proposed CGC-Net will be further refined after the acceptance of the paper. 
+The codes of the proposed CGC-Net will be further refined after the acceptance of the paper.   
 Updated on June 16, the paper "CGC-Net: A Guided Constrained Network for Remote-Sensing Image Super Resolution" has been accepted!
 
 May 20 pending Review  
